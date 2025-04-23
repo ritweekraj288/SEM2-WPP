@@ -1,0 +1,1 @@
+#Write a program to make the length of each element 15 of a given Numpy array and the string centred, left-justified, right-justified with paddings of _ (underscore).
