@@ -1,0 +1,86 @@
+header{
+    background:white;
+    padding:10px;
+    display:flex;
+    align-items: center;
+}
+.header-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+.svnitlogo{
+    height: 120px;
+    margin-right: 20px;
+}
+.sardar{
+    height: 120px;
+    margin-left: 20px;
+}
+nav{
+    background:#004080;
+    padding: 10px 0;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content:center;
+    padding: 0;
+}
+nav ul li{
+    margin: 0 15px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.first{
+    display:flex;
+    padding: 20px;
+}
+.left{
+    width: 20%;
+    background: #e0e0e0;
+    padding: 10px;
+}
+.left ul{
+    list-style: none;
+    padding: 0;
+}
+.left ul li{
+    background: #add8e6;
+    padding: 8px;
+    margin: 5px 0;
+    text-align: center;
+    font-weight: bold;
+}
+main{
+    width: 60%;
+    text-align: center;
+}
+.right{
+    width: 20%;
+    background: #e0e0e0;
+    padding: 10px;
+}
+.right ul{
+    list-style: none;
+    padding: 0;
+}
+.right ul li{
+    background: #add8e6;
+    padding: 8px;
+    margin: 5px 0;
+    text-align: center;
+    font-weight: bold;
+}
+.draupadi{
+
+    height: auto;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+}
